@@ -1,5 +1,5 @@
 # Deapth First Search
->DFS 
+>DFS Iterative
 
 ```
 dfs(node start) {
@@ -14,5 +14,13 @@ dfs(node start) {
       add all of top's neighbors to the stack.
     }
   }
+}
+```
+
+>DFS Recursive
+```
+dfs(node current) {
+  mark current as visited;
+  visit all of current's unvisited neighbors by calling dfs(neighbor)
 }
 ```
