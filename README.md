@@ -15,8 +15,9 @@ Please visit below repositories for some of the **Data Structure** implementatio
      
 ### 4. [Dynamic Programming](https://github.com/abhikgeek/Dynamic-Programming) 
 > Few problems **Knapsack Problem**,**Finding number of subset with given sum**, **Finding nth Fibonacci Number** solved 
-> using dynamic programming approach.     
+> using dynamic programming approach. 
+> You can find more information on [CSDojo | 0-1 Knapsack](https://www.youtube.com/watch?v=xOlhR_2QCXY)
     
 ### 5. [Sorting Alogirithms](https://github.com/abhikgeek/SortingAlgorithms)
 > Implementation of sorting algorithms **Selection Sort**,**Insertion Sort**,**Bubble Sort**,**Merge Sort**,**Quick Sort**.
-You can find more information on sorting on [MycodeSchool](https://www.youtube.com/user/mycodeschool)
+> You can find more information on sorting on [MycodeSchool](https://www.youtube.com/user/mycodeschool)
