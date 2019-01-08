@@ -8,19 +8,19 @@ Please visit below repositories for some of the **Data Structure** implementatio
   Implementation of HashTable ADT.
   *Add*,*Retrive* data from hashtable.
 ### 3. [Graph](https://github.com/abhikgeek/Graph)
- **Different Graph Representation**
-  1. Edge List Implementation of Graph. 
-  2. Adjacency Matrix Implementation of Graph
-  3. Adjacecny List Implementation
+ 1. Different Graph Representation
+    - Edge List Implementation of Graph. 
+    - Adjacency Matrix Implementation of Graph
+    - Adjacecny List Implementation
   ---
-  **Generic Methods**
-  1. To Find all connected nodes of a given node.
-  2. Check if two nodes are connected or not.
+ 2. Generic Methods
+    - To Find all connected nodes of a given node.
+    - Check if two nodes are connected or not.
   ---
-  **BFS - Breadth First Search**
-   1. Check if there is path between two nodes and get the path.
+ 3. BFS - Breadth First Search
+    - Check if there is path between two nodes and get the path.
   ---
-  **DFS - Deapth First Search**
-   1. Check if there is path between two nodes, if yes print the path.
+ 4. DFS - Deapth First Search
+    - Check if there is path between two nodes, if yes print the path.
   
 
