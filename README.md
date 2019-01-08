@@ -19,5 +19,8 @@ Please visit below repositories for some of the **Data Structure** implementatio
     - Check if there is path between two nodes and get the path.
  4. DFS - Deapth First Search <br/>
     - Check if there is path between two nodes, if yes print the path.
-  
-
+ ### 4. [Dynamic Programming](https://github.com/abhikgeek/Dynamic-Programming)
+    Few problems solved using dynamic programming approach.
+    1. Knapsack Problem
+    2. Finding number of subset with given sum
+    3. Finding nth Fibonacci Number
