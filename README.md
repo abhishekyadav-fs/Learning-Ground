@@ -14,12 +14,13 @@ Please visit below repositories for some of the **Data Structure** implementatio
   3. Adjacecny List Implementation
   ---
   **Generic Methods**
-  1. To Find all connected nodes of a given node
-  2. Check if two nodes are connected or not
+  1. To Find all connected nodes of a given node.
+  2. Check if two nodes are connected or not.
   ---
-  ** BFS- Breadth First Search**
-    Check if there is path between two nodes and get the path.
+  **BFS - Breadth First Search**
+   1. Check if there is path between two nodes and get the path.
   ---
   **DFS - Deapth First Search**
-  Check if there is path between two nodes, if yes print the path
+   1. Check if there is path between two nodes, if yes print the path.
+  
 
