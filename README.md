@@ -19,8 +19,19 @@ Please visit below repositories for some of the **Data Structure** implementatio
     - Check if there is path between two nodes and get the path.
  4. DFS - Deapth First Search <br/>
     - Check if there is path between two nodes, if yes print the path.
+    
  ### 4. [Dynamic Programming](https://github.com/abhikgeek/Dynamic-Programming)
     Few problems solved using dynamic programming approach.
     1. Knapsack Problem
     2. Finding number of subset with given sum
     3. Finding nth Fibonacci Number
+ ### 5. [Sorting Alogirithms](https://github.com/abhikgeek/SortingAlgorithms)
+    Implementation of sorting algorithms.
+    1. Selection Sort
+    2. Insertion Sort
+    3. Bubble Sort
+    4. Merge Sort
+    5. Quick Sort
+    
+    You can find more information on Sorting Alogrithms on 
+    [Mycodeschool](https://www.youtube.com/watch?v=pkkFqlG0Hds&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
