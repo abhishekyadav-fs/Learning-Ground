@@ -12,14 +12,11 @@ Please visit below repositories for some of the **Data Structure** implementatio
     - Edge List Implementation of Graph. 
     - Adjacency Matrix Implementation of Graph
     - Adjacecny List Implementation
-  ---
  2. Generic Methods <br/>
     - To Find all connected nodes of a given node.
     - Check if two nodes are connected or not.
-  ---
  3. BFS - Breadth First Search <br/>
     - Check if there is path between two nodes and get the path.
-  ---
  4. DFS - Deapth First Search <br/>
     - Check if there is path between two nodes, if yes print the path.
   
