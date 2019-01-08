@@ -19,3 +19,4 @@ Please visit below repositories for some of the **Data Structure** implementatio
     
 ### 5. [Sorting Alogirithms](https://github.com/abhikgeek/SortingAlgorithms)
 > Implementation of sorting algorithms **Selection Sort**,**Insertion Sort**,**Bubble Sort**,**Merge Sort**,**Quick Sort**.
+You can find more information on sorting on [MycodeSchool](https://www.youtube.com/user/mycodeschool)
