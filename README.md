@@ -14,7 +14,7 @@ Please visit below repositories for some of the **Data Structure** implementatio
 > Finding path between two nodes. **BFS** and **DFS** implementation.
      
 ### 4. <a href="https://github.com/abhikgeek/Dynamic-Programming" target="_blank"> Dynamic Programming </a>
-> Few problems **Knapsack Problem**,**Finding number of subset with given sum**, **Finding nth Fibonacci Number**,**Egg Dropping Problem** > solved 
+> Few problems **Knapsack Problem**,**Finding number of subset with given sum**, **Finding nth Fibonacci Number**,**Egg Dropping Problem** solved 
 > using dynamic programming approach. 
 > You can find more information on [CSDojo | 0-1 Knapsack](https://www.youtube.com/watch?v=xOlhR_2QCXY)
     
