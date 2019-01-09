@@ -1,7 +1,7 @@
 # Welcome to [LearningGround](http://learningground.in)
 Please visit below repositories for some of the **Data Structure** implementations in C#.
 
-### 1. [Linked List](https://github.com/abhikgeek/Linked-List)
+### 1. <a href="https://github.com/abhikgeek/Linked-List" target="_blank"> Linked List </a>
 > Basic operation on a linked list.
 > *Insertion*,*Deletion*, *Reversal* of items from linked list.
  
