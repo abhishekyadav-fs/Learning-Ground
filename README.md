@@ -21,3 +21,7 @@ Please visit below repositories for some of the **Data Structure** implementatio
 ### 5. <a href="https://github.com/abhikgeek/SortingAlgorithms" target="_blank"> Sorting Alogirithms </a>
 > Implementation of sorting algorithms **Selection Sort**,**Insertion Sort**,**Bubble Sort**,**Merge Sort**,**Quick Sort**.
 > You can find more information on sorting on [MycodeSchool](https://www.youtube.com/user/mycodeschool)
+
+### 6. <a href="https://github.com/abhikgeek/MiscellaneousProblems" target="_blank"> MiscellaneousProblems </a>
+> Few Miscellaneous Problems on **String**,**List**,**Array**,**Mathematical** etc etc has been solved here.
+> You can find more such problems on sorting on [GeeksforGeeks](https://www.geeksforgeeks.org/)
